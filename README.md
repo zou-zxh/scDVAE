@@ -1,4 +1,4 @@
-# Dimensionality reduction and visualization of single-cell RNA-seq data with an improved deep variational autoencoder
+# 
 
 ## requirement
  numpy>=1.14.2
@@ -33,17 +33,14 @@ Output will be saved in the output folder including:
 #### Help
 Look for more usage of SCALE
 
-	DREAM.py --help 
+	scDVAE.py --help 
 
 Use functions in SCALE packages.
 
-	import DREAM
-	from DREAM import *
-	from DREAM.plot import *
-	from DREAM.utils import *
+	import scDVAE
+	from scDVAE import *
+	from scDVAE.plot import *
+	from scDVAE.utils import *
 	
-
-#### Data availability  
-Datasets were obtained from the Hemberg group (https://hemberg-lab.github.io/scRNA.seq.datasets/)
 
 # scDVAE
