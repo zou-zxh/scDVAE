@@ -12,7 +12,7 @@
 
 ## Installation  
 
-DREAM neural network is implemented in [Pytorch](https://pytorch.org/) framework.     
+scDVAE neural network is implemented in [Pytorch](https://pytorch.org/) framework.     
 	
 
 #### Input
